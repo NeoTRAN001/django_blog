@@ -9,6 +9,6 @@ class HelloWorld(View):
             'name': 'NeoTRAN',
             'year': 20,
             'codes': ['Python', 'Django', 'React'],
-            'token': 'saodihaljkfhdaksdfhqpe8ur189y407328yr013243848'
+            'token': 'FHLDKJFAHLSKDJFHALSDKJFHALSKDHFKLASDHFLSKAJDFLKHSA'
         }
         return render(request, 'hello_world.html', context=data)
